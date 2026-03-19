@@ -1,0 +1,17 @@
+[2026-03-09 05:24:49] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:24:52] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:25:03] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:25:08] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:27:31] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:29:08] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:35:23] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:35:26] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:35:43] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:38:41] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:42:02] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:42:57] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:43:02] Prepare fallo: Unknown column 'imagen' in 'field list'
+[2026-03-09 05:45:30] ID 15: archivo no encontrado o fuera de projectRoot. candidate=C:\xampp\htdocs\movile\uploads\ real=
+[2026-03-09 05:45:30] ID 15: registro eliminado de la BD.
+[2026-03-09 05:46:04] ID 16: archivo no encontrado o fuera de projectRoot. candidate=C:\xampp\htdocs\movile\uploads\ real=
+[2026-03-09 05:46:04] ID 16: registro eliminado de la BD.

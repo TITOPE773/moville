@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<title>Verificar cuenta | Movilian</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+margin:0;
+font-family:'Inter',sans-serif;
+background:linear-gradient(135deg,#0f172a,#1e293b);
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.modal{
+background:white;
+padding:40px;
+border-radius:12px;
+width:320px;
+box-shadow:0 10px 30px rgba(0,0,0,0.3);
+text-align:center;
+}
+
+.modal h2{
+margin-bottom:20px;
+}
+
+.modal input{
+width:100%;
+padding:12px;
+margin-bottom:15px;
+border:1px solid #ccc;
+border-radius:6px;
+}
+
+.modal button{
+width:100%;
+padding:12px;
+background:#0f172a;
+color:white;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
+.modal button:hover{
+background:#1e293b;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="modal">
+
+<h2>Verificar cuenta</h2>
+
+<form action="/movile/backend/activar_usuario.php" method="POST">
+
+<input type="text" name="codigo" placeholder="Código de verificación" required>
+
+<button type="submit">Verificar</button>
+
+</form>
+
+</div>
+
+</body>
+</html>
